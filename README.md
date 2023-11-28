@@ -4,7 +4,7 @@ Crud de um restaurante de comida italiana 🍤
 
 Web-Signin
 
-📜 Sumário
+#📜 Sumário
 Recursos
 Instalação
 Introdução
@@ -15,7 +15,7 @@ perguntas frequentes
 Para explorar outro, clique no link abaixo:
 
 GoRestaurant Mobile
-🔧 Instalação
+#🔧 Instalação
 Você precisa instalar o Node.js e o Yarn primeiro e, em seguida, para clonar o projeto via HTTPS , execute este comando:
 
  git clone https://github.com/alessandro-silva/gorestaurant-web.git
@@ -34,12 +34,12 @@ cp .env.example.env
 
 Após copiar os exemplos, certifique-se de preencher as variáveis com novos valores.
 
-🏄 Introdução
+#🏄 Introdução
 Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolvimento:
 
 yarn start
 
-⁉️ perguntas frequentes
+#⁉️ perguntas frequentes
 Pergunta: Quais são as tecnologias utilizadas neste projeto?
 
 Resposta: As tecnologias usadas neste projeto são React + Styled Components para lidar com o CSS
